@@ -25,7 +25,7 @@ Rules:
 #   double_number(-3) -> -6
 #
 def double_number(num: int) -> int:
-    return num + num + 1
+    return num + num
 
 
 # -------------------------------------------------
